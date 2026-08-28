@@ -10,7 +10,7 @@ The dashboard provides business insights by allowing users to filter data by **Y
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
